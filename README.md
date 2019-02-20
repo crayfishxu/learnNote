@@ -1,3 +1,6 @@
 # learnNote
 个人学习笔记
-进行测试
+
+
+## 动态代理学习
+ProxyTestActivity
